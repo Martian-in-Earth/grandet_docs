@@ -17,3 +17,11 @@ grandet 是一个以个人或团队为单位的任务管理工具
 # 原型界面
 
 https://pro.modao.cc/app/qjT4s5dtZd2AaIDsZbIDfYxJtmLN0pf
+
+
+# 使用场景
+
+1. 个人时间管理（todo）
+1. 开发团队同步任务 （项目管理）
+1. 家庭买房计划（记账属性）
+	
